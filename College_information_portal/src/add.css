@@ -1,0 +1,28 @@
+.buttons2 {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    margin-top: 200px;
+    position: fixed;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 50px;
+}
+
+button2 {
+    padding: 10px;
+    font-size: 23px;
+    width: 200px;
+    text-align: center;
+    height: 60px;
+    border: 3px solid white;
+    background-color: #016770;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button2:hover {
+    background-color: #0056b3;
+}

@@ -1,0 +1,27 @@
+.academic-box-wrapper3 {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px; /* Adjust the spacing between boxes */
+}
+
+.academic-box3 {
+    flex: 1;
+    padding: 20px;
+    background-color: #f0f0f0;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.search-bar3 {
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+}
+
+.academic-box23 {
+    height: 150px;
+    background-color: #eaeaea;
+}
